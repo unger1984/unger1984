@@ -15,4 +15,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unger1984)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unger1984)](https://github.com/anuraghazra/github-readme-stats)
-[![score](<img style="-webkit-user-select: none; display: block; margin: auto; padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); cursor: zoom-in;" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&amp;username=unger1984&amp;badges=3&amp;show-avatar=false&amp;show-header=false&amp;branding=false&amp;--bg-color=transparent" width="767" height="161">](https://profile.codersrank.io/user/unger1984)
+[![score](<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&amp;username=unger1984&amp;badges=3&amp;show-avatar=false&amp;show-header=false&amp;branding=false&amp;--bg-color=transparent" width="767" height="161">](https://profile.codersrank.io/user/unger1984)
