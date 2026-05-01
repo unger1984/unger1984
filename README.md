@@ -5,11 +5,11 @@
  
 #### Work with:
 
-* Backend - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" /> NodeJS, <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/go.svg" /> Go, <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/dart.svg" /> Dart
-* Frontend - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" /> React, <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" /> Flutter
-* Mobile - <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" /> Flutter
-* Game - <img height="16" width="16" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/7.9.0/unity.svg" /> Unity3D, UrealEngine, <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" /> Flutter, Flame
-* Embeded - C/C++, Arduino, ESP32, STM32
+- **Backend** — <img height="16" align="top" src="https://cdn.simpleicons.org/nodedotjs"> NodeJS, <img height="16" align="top" src="https://cdn.simpleicons.org/go"> Go, <img height="16" align="top" src="https://cdn.simpleicons.org/dart"> Dart
+- **Frontend** — <img height="16" align="top" src="https://cdn.simpleicons.org/react"> React, <img height="16" align="top" src="https://cdn.simpleicons.org/flutter"> Flutter
+- **Mobile** — <img height="16" align="top" src="https://cdn.simpleicons.org/flutter"> Flutter
+- **Game** — <img height="16" align="top" src="https://cdn.simpleicons.org/unity"> Unity3D, <img height="16" align="top" src="https://cdn.simpleicons.org/unrealengine"> Unreal Engine, <img height="16" align="top" src="https://cdn.simpleicons.org/flutter"> Flutter, Flame
+- **Embedded** — <img height="16" align="top" src="https://cdn.simpleicons.org/cplusplus"> C/C++, <img height="16" align="top" src="https://cdn.simpleicons.org/arduino"> Arduino, <img height="16" align="top" src="https://cdn.simpleicons.org/espressif"> ESP32, <img height="16" align="top" src="https://cdn.simpleicons.org/stmicroelectronics"> STM32
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unger1984&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
