@@ -15,6 +15,6 @@
 
 #### My stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=unger1984)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unger1984)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=unger1984)](https://github.com/stats-organization/github-stats-extended)
 [![score](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=unger1984&badges=3&show-avatar=false&show-header=false&branding=false&--bg-color=transparent)](https://profile.codersrank.io/user/unger1984)
 
