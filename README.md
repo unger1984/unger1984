@@ -1,7 +1,7 @@
 ### Hi there 👋 I`m Andrey Unger        ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 - ✨ I’m full-stack developer.
-- 💪 More than twenty years of development experience
+- 💪 More than twenty five years of development experience
  
 #### Work with:
 
